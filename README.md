@@ -1,5 +1,7 @@
 # nuxt_sample
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/jirokkason.svg)](https://www.guardrails.io)
+
 > Nuxt.js project
 
 ## Build Setup
